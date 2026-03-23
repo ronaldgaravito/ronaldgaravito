@@ -78,4 +78,4 @@
 
 
 **Créditos:** *Ronald Garavito*  
-**Última edición:** *1/02/2026*
+**Última edición:** *22/02/2026*
