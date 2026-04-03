@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail,discord,java,js,html,css,maven,react,vite,linux,arch,vscode,mysql,postgres,python,tailwind,mongodb,figma,nodejs,npm,notion,vue,linkedin,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail,discord,java,js,html,css,maven,react,vite,linux,arch,vscode,mysql,postgres,tailwind,figma,nodejs,npm,notion,vue,linkedin,docker&perline=14" />
   </a>
 </p>
 
