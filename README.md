@@ -8,8 +8,8 @@
 ---
 ###  Sobre mí
 - 🎓 Estudiante de **Ingeniería de Sistemas**.
-- 💻 Especializándome en **Java (MVC/Swing)** y **React + Vite** y Trabajo en aplicaciones de escritorio, proyectos con GUI y lógica backend.
-- 🐳 Experiencia en **Dockerización** de aplicaciones y despliegue continuo (CI/CD).
+- 💻 Especializándome en **Java (MVC/Swing)** y **Springboot** , Trabajo en aplicaciones de escritorio, proyectos con GUI y lógica backend.
+- 🐳 Menejo en **Dockerización** de aplicaciones y despliegue continuo (CI/CD).
 - 🛠️ Enfocado en crear soluciones escalables, desde apps de escritorio hasta web.
 - 📧 Contacto: [ronaldgaravito@gmail.com](mailto:ronaldgaravito@gmail.com)
 ---
